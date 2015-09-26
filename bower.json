@@ -1,6 +1,6 @@
 {
   "name": "waypoints",
-  "main": "lib/noframework.waypoints.js",
+  "main": "lib/jquery.waypoints.js",
   "description": "Easily execute a function when you scroll to an element.",
   "ignore": [
     "gulpfile.js",
